@@ -1508,8 +1508,6 @@ void visuals::DoAsusWalls()
 		bLastSetting = g_Options.Visuals.asuswalls;
 		bPerformed = false;
 	}
-
-	junk3263761::doJunk();
 }
 
 void visuals::renderBeams()
